@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Update
+Comment=Update
+Exec=update
+Icon=security-high
+Terminal=true
+Type=Application
+Categories=GTK;System;
+StartupNotify=true
